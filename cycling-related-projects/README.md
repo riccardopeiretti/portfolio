@@ -10,7 +10,7 @@
   - *Time prediction model* (R² ≈ 0.90) accurately estimated stage completion times.  
   - *Position prediction model* (R² ≈ 0.26) partially predicted rankings, highlighting the complexity of rider-specific outcomes. 
 
-  The thesis identified major challenges (data quality, tactics, injuries, weather) and proposed improvements through richer feature integration. 
+  The thesis identified major challenges (data quality, tactics, injuries, weather) and proposed improvements through richer feature integration. The English version of the abstract is available [ here ](Predictive_Model_for_Cycling_abstract.pdf). 
 
 ### [ Product Development for Safety in Cycling ](Product_Development_for_Safety_in_Cycling.pdf)
 - **Objective:** Design and prototype an innovative smart helmet (E-Helmet) and companion mobile app to enhance cyclists’ road safety.  
