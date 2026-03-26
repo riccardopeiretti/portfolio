@@ -1,3 +1,12 @@
+### [ Machine Learning for Race Performance Prediction in Professional Cycling: The Norwegian Team Coop-Repsol Case Study ]()
+- **Objective:** Develop a machine learning framework, as part of my master’s thesis, to predict race performance in professional cycling by estimating the probability of a Top-20 finish using longitudinal training data and pre-race workload features from the Continental Team Coop–Repsol.
+
+- **Achievements:** Designed and evaluated multiple predictive models, progressing from a logistic regression baseline to advanced XGBoost approaches:
+  - *Baseline model (Logistic Regression)* showed limited predictive power (recall ≈ 0.23), highlighting the complexity of the problem and strong class imbalance.
+  - *Readiness-based XGBoost model* significantly improved performance (recall ≈ 0.73), effectively identifying strong race outcomes.
+
+  Introduced a Readiness Index (RI), an interpretable score derived from predicted probabilities to quantify athletes’ performance potential before races. The project also included a full data pipeline (data engineering, feature engineering, and training-block modeling) and the development of an interactive dashboard for real-world decision support.
+
 ### [ Calorie Estimation for Cyclists ](Calorie_Estimation_for_Cyclists.pdf)
 - **Objective:** Propose a machine learning approach to estimate a cyclist's caloric needs during training, using body metrics, historical ride data, and training plans.  
 
