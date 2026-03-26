@@ -1,4 +1,4 @@
-### [ Machine Learning for Race Performance Prediction in Professional Cycling: The Norwegian Team Coop-Repsol Case Study ]()
+### [ Machine Learning for Race Performance Prediction in Professional Cycling: The Norwegian Team Coop-Repsol Case Study ](The_Norwegian_Team_Coop_Repsol_Case_Study.pdf)
 - **Objective:** Develop a machine learning framework, as part of my master’s thesis, to predict race performance in professional cycling by estimating the probability of a Top-20 finish using longitudinal training data and pre-race workload features from the Continental Team Coop–Repsol.
 
 - **Achievements:** Designed and evaluated multiple predictive models, progressing from a logistic regression baseline to advanced XGBoost approaches:
