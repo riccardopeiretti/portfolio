@@ -4,6 +4,23 @@ Projects focused on cycling and sports performance, combining data science, mach
 
 ---
 
+### [Machine Learning for Race Performance Prediction in Professional Cycling: The Norwegian Team Coop-Repsol Case Study](The_Norwegian_Team_Coop_Repsol_Case_Study.pdf)
+
+- **Objective:**  
+  Develop a machine learning framework, as part of my master’s thesis, to predict race performance in professional cycling by estimating the probability of a Top-20 finish using longitudinal training data and pre-race workload features from the Continental Team Coop–Repsol.
+
+- **Outcome:**  
+  Designed and evaluated multiple predictive models, progressing from a logistic regression baseline to advanced XGBoost approaches:
+  - **Baseline model (Logistic Regression):** showed limited predictive power (recall ≈ 0.23), highlighting the complexity of the problem and strong class imbalance.
+  - **Readiness-based XGBoost model:** significantly improved performance (recall ≈ 0.73), effectively identifying strong race outcomes.
+
+  Introduced a Readiness Index (RI), an interpretable score derived from predicted probabilities to quantify athletes’ performance potential before races. The project also included a complete data pipeline covering data engineering, feature engineering, training-block modeling, and the development of an interactive dashboard for decision support.
+
+- **Skills:**  
+  Python | XGBoost | Predictive Modeling | Feature Engineering | Sports Analytics | Data Visualization
+
+---
+
 ### [Calorie Estimation for Cyclists](Calorie_Estimation_for_Cyclists.pdf)
 
 - **Objective:**  
@@ -12,6 +29,7 @@ Projects focused on cycling and sports performance, combining data science, mach
 - **Outcome:**  
   Developed the concept of a Random Forest regression model using a simulated dataset, defining evaluation strategies based on MAE and RMSE. The proposed system explores integration with wearable devices and platforms such as Strava and Garmin, considering accuracy requirements and GDPR compliance.
 
+<<<<<<< HEAD
 - **Skills:**  
   Machine Learning | Regression Models | Sports Analytics
 
@@ -48,3 +66,6 @@ Projects focused on cycling and sports performance, combining data science, mach
 
 - **Skills:**  
   UX Research | Product Design | Prototyping |Human-Centered Design | Mobile Applications
+=======
+- **Achievements:** Conducted user research through surveys, interviews, and field observations; defined personas and scenarios; developed and evaluated low- and medium-fidelity prototypes. Key features include brain–computer interface for automatic turn signals, accident detection, head-up display, and integration with fitness apps. Usability testing showed strong results (SUS ≈ 85, ~94% task completion).
+>>>>>>> 60753cef4bdfd45203211d55fc313fdb8032377f
