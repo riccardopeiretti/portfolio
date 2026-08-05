@@ -1,9 +1,12 @@
 # portfolio
-Welcome to my portfolio of university projects. Here you will find a collection of work completed during my bachelor’s and master’s studies. 
+Welcome to my portfolio of university projects. Here you will find a collection of work completed during my bachelor’s and master’s studies, covering data science, sports analytics, digital innovation, and human-centered technologies.
 
 ## categories
-- [ cycling related projects ](cycling-related-projects/README.md):
-  *Projects focused on cycling, including predictive modeling, caloric estimation, and product development for safety.*  
+- [ cycling & sport analytics ](cycling-related-projects/README.md):
+  *Projects focused on cycling and sports performance, including predictive modeling, training analysis, and data-driven solutions for athletes.*  
 
-- [ other modeling projects ](other-modeling-projects/README.md):
-  *Projects exploring predictive modeling, knowledge graphs, and recommendation systems in various domains beyond cycling.*  
+- [ data science & predictive modeling ](data-science-modeling-projects/README.md):
+  *Projects applying machine learning, statistical modeling, and data-driven approaches to solve problems across different domains.* 
+
+- [human-centered design & digital innovation](human-centered-design-projects/README.md):  
+  *Projects combining data, user experience design, and digital technologies to develop interactive systems and support decision-making.*
