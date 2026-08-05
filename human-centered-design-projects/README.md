@@ -19,7 +19,7 @@ Projects focused on designing digital solutions by combining user needs, data-dr
 
 ---
 
-### [Enterprise Architecture for Enterprise Innovation: The Case of Sentimate](Enterprise_Architecture_for_Enterprise_Innovation.pdf)
+### [Enterprise Architecture for Enterprise Innovation: The Case of Sentimate](Enterprise_Architecture_For_Enterprise_Innovation.pdf)
 
 - **Objective:**  
   Develop an enterprise architecture model for Sentimate, an AI-driven SaaS solution designed to support workplace wellbeing and improve HR decision-making processes.

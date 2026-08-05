@@ -19,7 +19,7 @@ Projects applying machine learning, data analysis, and artificial intelligence t
 
 ---
 
-### [Day-ahead Electricity Spot Price Forecasting](Day_ahead_Electricity_Spot_Price_Forecasting.pdf)
+### [Day-ahead Electricity Spot Price Forecasting](Day-ahead_Electricity_Spot_Price_Forecasting.pdf)
 
 - **Objective:**  
   Develop a data-driven forecasting approach to predict day-ahead electricity spot prices using historical market data and relevant temporal features.
@@ -29,6 +29,8 @@ Projects applying machine learning, data analysis, and artificial intelligence t
 
 - **Skills:**  
   Python | Data Analysis | Machine Learning | Time-Series Forecasting | Model Evaluation
+
+---
 
 ### [Knowledge Graphs and Transportation Optimization](Knowledge_Graphs_and_Transportation_Optimization.pdf)
 

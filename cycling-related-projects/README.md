@@ -29,7 +29,6 @@ Projects focused on cycling and sports performance, combining data science, mach
 - **Outcome:**  
   Developed the concept of a Random Forest regression model using a simulated dataset, defining evaluation strategies based on MAE and RMSE. The proposed system explores integration with wearable devices and platforms such as Strava and Garmin, considering accuracy requirements and GDPR compliance.
 
-<<<<<<< HEAD
 - **Skills:**  
   Machine Learning | Regression Models | Sports Analytics
 
@@ -68,4 +67,4 @@ Projects focused on cycling and sports performance, combining data science, mach
   UX Research | Product Design | Prototyping |Human-Centered Design | Mobile Applications
 =======
 - **Achievements:** Conducted user research through surveys, interviews, and field observations; defined personas and scenarios; developed and evaluated low- and medium-fidelity prototypes. Key features include brain–computer interface for automatic turn signals, accident detection, head-up display, and integration with fitness apps. Usability testing showed strong results (SUS ≈ 85, ~94% task completion).
->>>>>>> 60753cef4bdfd45203211d55fc313fdb8032377f
+
