@@ -14,8 +14,7 @@ Projects applying machine learning, data analysis, and artificial intelligence t
 
   The results showed that incorporating temporal and spatial features significantly improved trajectory forecasting performance, while also highlighting the challenges of predicting complex maritime movements from AIS data.
 
-- **Skills:**  
-  Python | Machine Learning | Time-Series Forecasting | Feature Engineering | Geospatial Data Analysis
+Python | Machine Learning | Time-Series Forecasting | Feature Engineering | Geospatial Data Analysis
 
 ---
 
@@ -27,8 +26,7 @@ Projects applying machine learning, data analysis, and artificial intelligence t
 - **Outcome:**  
   Developed an end-to-end data science pipeline, including data preprocessing, exploratory data analysis, feature engineering, predictive modeling, and model evaluation. The project investigated different approaches for electricity price forecasting and discussed deployment considerations, including monitoring strategies for a potential real-world implementation.
 
-- **Skills:**  
-  Python | Data Analysis | Machine Learning | Time-Series Forecasting | Model Evaluation
+Python | Data Analysis | Machine Learning | Time-Series Forecasting | Model Evaluation
 
 ---
 
@@ -42,8 +40,7 @@ Projects applying machine learning, data analysis, and artificial intelligence t
 
   The final system enabled semantic queries for identifying suitable transportation solutions based on different user profiles and mobility needs.
 
-- **Skills:**  
-  Knowledge Graphs | Ontologies | Data Integration | Semantic Web | SPARQL
+Knowledge Graphs | Ontologies | Data Integration | Semantic Web | SPARQL
 
 ---
 
@@ -57,5 +54,4 @@ Projects applying machine learning, data analysis, and artificial intelligence t
 
   The proposed approaches demonstrated the potential of personalized recommendation systems to improve route selection compared with traditional baseline strategies.
 
-- **Skills:**  
-  Recommendation Systems | Data Mining | Machine Learning | Clustering | Scalable Algorithms
+Recommendation Systems | Data Mining | Machine Learning | Clustering | Scalable Algorithms

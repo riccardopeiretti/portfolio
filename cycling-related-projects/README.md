@@ -16,8 +16,7 @@ Projects focused on cycling and sports performance, combining data science, mach
 
   Introduced a Readiness Index (RI), an interpretable score derived from predicted probabilities to quantify athletes’ performance potential before races. The project also included a complete data pipeline covering data engineering, feature engineering, training-block modeling, and the development of an interactive dashboard for decision support.
 
-- **Skills:**  
-  Python | XGBoost | Predictive Modeling | Feature Engineering | Sports Analytics | Data Visualization
+Python | XGBoost | Predictive Modeling | Feature Engineering | Sports Analytics | Data Visualization
 
 ---
 
@@ -29,8 +28,7 @@ Projects focused on cycling and sports performance, combining data science, mach
 - **Outcome:**  
   Developed the concept of a Random Forest regression model using a simulated dataset, defining evaluation strategies based on MAE and RMSE. The proposed system explores integration with wearable devices and platforms such as Strava and Garmin, considering accuracy requirements and GDPR compliance.
 
-- **Skills:**  
-  Machine Learning | Regression Models | Sports Analytics
+Machine Learning | Regression Models | Sports Analytics
 
 ---
 
@@ -48,8 +46,7 @@ Projects focused on cycling and sports performance, combining data science, mach
 
   *The thesis is written in Italian; however, an English version of the abstract is available [here](Predictive_Model_for_Cycling_abstract.pdf).*
 
-- **Skills:**  
-  Python | XGBoost | Predictive Modeling | Feature Engineering | Sports Data Analysis
+Python | XGBoost | Predictive Modeling | Feature Engineering | Sports Data Analysis
 
 ---
 
@@ -61,10 +58,6 @@ Projects focused on cycling and sports performance, combining data science, mach
 - **Outcome:**  
   Conducted user research through surveys, interviews, and field observations; developed personas, usage scenarios, and low/medium-fidelity prototypes. The proposed solution integrates features such as automatic turn signals, accident detection, head-up display, and connectivity with fitness platforms.
 
-  Usability evaluation showed promising results, achieving a SUS score of approximately 85 and around 94% task completion.
-
-- **Skills:**  
-  UX Research | Product Design | Prototyping |Human-Centered Design | Mobile Applications
-=======
 - **Achievements:** Conducted user research through surveys, interviews, and field observations; defined personas and scenarios; developed and evaluated low- and medium-fidelity prototypes. Key features include brain–computer interface for automatic turn signals, accident detection, head-up display, and integration with fitness apps. Usability testing showed strong results (SUS ≈ 85, ~94% task completion).
 
+UX Research | Product Design | Prototyping |Human-Centered Design | Mobile Applications
